@@ -1,3 +1,3 @@
 # JS-Learning
-Javascript Learining
+Javascript Learining<br>
 This is my first text on the Github repossitory
